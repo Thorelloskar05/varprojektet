@@ -7,4 +7,4 @@ måndag - Idag har jag jobbat med styleguiden och fortsatt försöka förbättra
 
 tisdag - fortsatt förbättra styleguide hållt på med samma grejer som förra lektionen.
 ## V.14
-måndag - 
+måndag - Idag bestämde jag och de andra att vi inte var nöjda hur vår styleguide blev i markdown. Så vi valde att göra om den fast med hjälp av HTML och CSS. Underdagens lektion har jag fått klar en hel hemsida. Nu när jag valt bort markdown kunde ja mycket lättare länka in bilder och ändra till olika typsnitt. Jag har även repeterat lite saker som grid och även läst på HTMLdog om saker man glömt av. Till nästa lektion ska jag forsätta att jobba på styleguide hemsidan.
